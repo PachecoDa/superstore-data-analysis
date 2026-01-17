@@ -1,0 +1,11 @@
+order_id,order_date,city,product,category,quantity,unit_price,total
+1001,2023-01-05,Bogota,Arroz 1kg,Abarrotes,3,4500,13500
+1002,2023-01-05,Bogota,Leche 1L,Lacteos,6,3200,19200
+1003,2023-01-06,Medellin,Huevos 12u,Abarrotes,2,9800,19600
+1004,2023-01-06,Bogota,Pan tajado,Panaderia,4,4200,16800
+1005,2023-01-07,Cali,Gaseosa 1.5L,Bebidas,5,5500,27500
+1006,2023-01-07,Bogota,Cafe molido 500g,Abarrotes,2,12500,25000
+1007,2023-01-08,Medellin,Yogurt 1L,Lacteos,3,4800,14400
+1008,2023-01-08,Cali,Azucar 1kg,Abarrotes,4,4600,18400
+1009,2023-01-09,Bogota,Detergente,Limpeza,2,15800,31600
+1010,2023-01-09,Bogota,Papel higienico,Hogar,1,18900,18900
